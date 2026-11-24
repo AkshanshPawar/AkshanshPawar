@@ -1,9 +1,8 @@
 ### Hey, I'm Akshansh Pawar 👋
-**Breaking problems. Building systems. 🚀**
+I'm a Computer Science student and aspiring engineer who enjoys solving challenging problems and building real-world applications. I love understanding how things work behind the scenes — from algorithms and database design to backend architecture and distributed systems.
 
-I'm a software developer who enjoys solving challenging problems and building real-world applications. I love understanding how things work behind the scenes — from algorithms and database design to backend architecture and distributed systems.
-
-- 💻 Strong interest in **Backend Engineering** and **System Design**.
+- 🎓 Fresher actively looking for **Backend / Software Engineering** opportunities.
+- 💻 Strong interest in **Backend Engineering**.
 - ⚙️ Building applications with **Node.js, Next.js, PostgreSQL, and TypeScript**.
 - 🚀 Exploring **Kafka, Redis, Docker**, and distributed systems.
 - 🌱 Always learning, experimenting, and building something new.
@@ -12,7 +11,7 @@ I'm a software developer who enjoys solving challenging problems and building re
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C++, JavaScript, TypeScript, Java
+- **Languages:** C++, JavaScript, TypeScript
 - **Backend & Frameworks:** Node.js, Express.js, Next.js, React
 - **Databases & Tools:** PostgreSQL, MongoDB, Prisma, Redis, Kafka, Git, GitHub, Docker, Postman
 
